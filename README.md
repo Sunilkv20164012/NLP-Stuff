@@ -11,3 +11,9 @@ https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-pred
 
 How to Use t-SNE Effectively
 https://distill.pub/2016/misread-tsne/
+
+CNN-Text-Classification
+https://github.com/dennybritz/cnn-text-classification-tf
+
+CNN-Phoneme-Classification
+https://github.com/samogot/cnn-phoneme-classification-tf
