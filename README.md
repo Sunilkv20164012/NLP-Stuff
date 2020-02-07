@@ -14,6 +14,7 @@ https://distill.pub/2016/misread-tsne/
 
 CNN-Text-Classification
 https://github.com/dennybritz/cnn-text-classification-tf
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 
 CNN-Phoneme-Classification
 https://github.com/samogot/cnn-phoneme-classification-tf
